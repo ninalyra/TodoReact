@@ -1,0 +1,13 @@
+.Header{
+    height: 350px;
+    padding-top: 60px;
+    background-image: url(../../assets/banner.jpg) ;
+    background-size: cover;
+    box-sizing: border-box;
+}
+
+.logo{
+    color: white;
+    text-align: center;
+    font-size: 48px;
+}
